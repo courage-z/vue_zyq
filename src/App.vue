@@ -62,6 +62,11 @@
         Reserve
       </v-btn>
     </v-card-actions>
+
+
+    <h1>sdasds</h1>
+    
+    <h1>sdasds</h1>
   </v-card>
 </template>
 <script>
