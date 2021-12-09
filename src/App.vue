@@ -62,11 +62,15 @@
         Reserve
       </v-btn>
     </v-card-actions>
+    <div>
 
-<h1>123123123</h1>
-    <h1>sdasds</h1>
-    
-    <h1>sdasds</h1>
+      <h1>1</h1>
+      <h1>1</h1>
+      <h1>1</h1>
+       <h1>1</h1>
+      <h1>1</h1>
+      <h1>1</h1>
+    </div>
   </v-card>
 </template>
 <script>
