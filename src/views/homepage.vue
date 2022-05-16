@@ -4,6 +4,11 @@
     <img alt="Vue logo" src="../assets/logo.png">
 
     
+    <img alt="Vue logo" src="../assets/logo.png">
+    <img alt="Vue logo" src="../assets/logo.png">
+    <img alt="Vue logo" src="../assets/logo.png">
+    <img alt="Vue logo" src="../assets/logo.png">
+    111111111111
   </div>
 </template>
 
